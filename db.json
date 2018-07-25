@@ -1,0 +1,25 @@
+{
+"producs": [
+{"id":1,"name":"Blue fox","category":"Orange"},
+{"id":2,"name":"Dove, galapagos","category":"Teal"},
+{"id":3,"name":"Barasingha deer","category":"Pink"},
+{"id":4,"name":"Gull, southern black-backed","category":"Aquamarine"},
+{"id":5,"name":"Kingfisher, pied","category":"Khaki"},
+{"id":6,"name":"Lizard, goanna","category":"Mauv"},
+{"id":7,"name":"Spider, wolf","category":"Crimson"},
+{"id":8,"name":"Pied avocet","category":"Blue"},
+{"id":9,"name":"Heron, gray","category":"Violet"},
+{"id":10,"name":"Wagtail, african pied","category":"Yellow"},
+{"id":11,"name":"Sloth, two-toed","category":"Maroon"},
+{"id":12,"name":"Crab-eating raccoon","category":"Goldenrod"},
+{"id":13,"name":"Blackbuck","category":"Purple"},
+{"id":14,"name":"Flying fox (unidentified)","category":"Mauv"},
+{"id":15,"name":"Wallaby, tammar","category":"Pink"},
+{"id":16,"name":"Pig-tailed macaque","category":"Yellow"},
+{"id":17,"name":"Comb duck","category":"Maroon"},
+{"id":18,"name":"Lion, australian sea","category":"Crimson"},
+{"id":19,"name":"Pallas's fish eagle","category":"Fuscia"},
+{"id":20,"name":"Spoonbill, white","category":"Green"}
+]
+}
+
